@@ -40,7 +40,7 @@ function App() {
 
   return (
     <div className="App container">
-      <h1>welcome to login system 522222222555</h1>
+      <h1>welcome to login system</h1>
       <div className="information">
         <form action="">
           <div className="mb-3">
